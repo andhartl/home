@@ -1,4 +1,4 @@
-## Registering capacity to the TF grid with hardward not using 0-OS
+## Registering capacity to the TF grid with hardware not using 0-OS
 It is possible to already register some hardware on the grid even if the hardware is not yet running 0-OS.
 
 This tool can be used when the farmer is planning to add capacity to the grid but for some reason still need to keep his hardware running something else then 0-OS time being.
